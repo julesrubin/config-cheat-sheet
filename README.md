@@ -27,7 +27,7 @@ Feel free to use these scripts and guides if they're helpful to you, but remembe
 
 ## Contributing
 
-This is primarily a personal reference, but if you spot errors or have suggestions for improvements, feel free to open an issue or PR.
+This is primarily a personal reference. There may be mistakes or outdated information, as much of this content is a direct dump of my troubleshooting steps (often with help from AI tools). If you notice errors or have suggestions for improvements, please feel free to open an issue or pull request!
 
 ---
 
